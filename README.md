@@ -7,13 +7,21 @@ Explore insights into hotel booking cancellations using this data analysis proje
 🏷️ Tags
 
 Data Analysis
+
 Excel
+
 Hotel Booking
+
 Data Visualization
+
 Kaggle Dataset
+
 Pivot Tables
+
 Dashboards
+
 Beginner-Friendly
+
 Insights
 
 📊 Dashboard Preview
