@@ -13,4 +13,6 @@ Pivot Tables
 Dashboards
 Beginner-Friendly
 Insights
+
 📊 Dashboard Preview
+C:\Users\singh\Pictures\Screenshots\Screenshot (233).png
