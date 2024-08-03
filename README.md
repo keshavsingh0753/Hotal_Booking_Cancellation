@@ -15,4 +15,5 @@ Beginner-Friendly
 Insights
 
 📊 Dashboard Preview
-C:\Users\singh\Pictures\Screenshots\Screenshot (233).png
+![Screenshot (233)](https://github.com/user-attachments/assets/e142d67d-01dc-4239-a3e7-03e56827f8d6)
+
